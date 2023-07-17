@@ -84,5 +84,9 @@
     <symbol id="send-icon" viewBox="0 0 32 32">
       <path fill="#fff" d="m32 2.667-32 15 10.227 3.156L26 8.5 14.002 21.988l.01.003-.012-.003v7.345l5.735-5.576L27 25.999l5-23.333z" style="fill:var(--color1, #fff)"/>
     </symbol>
+<!-- Burger icon -->
+<symbol id="burger-menu"  viewBox="0 0 32 22" >
+<path d="M1.34766 20.0431H30.8861M1.34766 10.7354H30.8861M1.34766 1.42773H30.8861" stroke="#2E2F42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
   </defs>
 </svg>
